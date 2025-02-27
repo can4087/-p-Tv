@@ -1,0 +1,47 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: black;
+    color: white;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+h1, h2 {
+    color: neonpink;
+    text-shadow: 0 0 10px neonpink;
+}
+
+.btn {
+    background-color: #ff00ff;
+    color: white;
+    padding: 15px 30px;
+    text-decoration: none;
+    border-radius: 5px;
+    display: inline-block;
+    margin-top: 20px;
+    font-size: 18px;
+    box-shadow: 0 0 15px #ff00ff;
+}
+
+.btn:hover {
+    background-color: #00ff00;
+    box-shadow: 0 0 20px #00ff00;
+}
+
+.whatsapp {
+    background-color: #25D366;
+    box-shadow: 0 0 15px #25D366;
+}
+
+.whatsapp:hover {
+    background-color: #128C7E;
+    box-shadow: 0 0 20px #128C7E;
+}
+
+footer {
+    margin-top: 50px;
+    padding: 20px;
+    background-color: #222;
+    color: #fff;
+}
